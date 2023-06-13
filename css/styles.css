@@ -640,7 +640,7 @@ h2{
     
   }
   #name{
-    padding: 0;
+    padding: 0.5vw;
     margin: 0;
     text-align: center;
     margin-top: 2vh;
@@ -650,7 +650,7 @@ h2{
     border: 2px solid #9AC361;
   }
   #email{
-    padding: 0;
+    padding: 0.5vw;
     margin: 0;
     text-align: center;
     margin-left: 25%;
